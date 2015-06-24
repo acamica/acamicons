@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'acamicons';
-  src: url('../font/acamicons.eot?14898306');
-  src: url('../font/acamicons.eot?14898306#iefix') format('embedded-opentype'),
-       url('../font/acamicons.woff?14898306') format('woff'),
-       url('../font/acamicons.ttf?14898306') format('truetype'),
-       url('../font/acamicons.svg?14898306#acamicons') format('svg');
+  src: url('../font/acamicons.eot?64197694');
+  src: url('../font/acamicons.eot?64197694#iefix') format('embedded-opentype'),
+       url('../font/acamicons.woff?64197694') format('woff'),
+       url('../font/acamicons.ttf?64197694') format('truetype'),
+       url('../font/acamicons.svg?64197694#acamicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'acamicons';
-    src: url('../font/acamicons.svg?14898306#acamicons') format('svg');
+    src: url('../font/acamicons.svg?64197694#acamicons') format('svg');
   }
 }
 */
@@ -227,8 +227,18 @@
 .icon-arrow-merge:before { content: '\e8aa'; } /* '' */
 .icon-arrow-split:before { content: '\e8ab'; } /* '' */
 .icon-sort:before { content: '\e8ac'; } /* '' */
+.icon-info:before { content: '\e8ad'; } /* '' */
+.icon-info-o:before { content: '\e8ae'; } /* '' */
 .icon-github:before { content: '\e8af'; } /* '' */
+.icon-play-circle:before { content: '\e8b0'; } /* '' */
+.icon-play:before { content: '\e8b1'; } /* '' */
+.icon-pause:before { content: '\e8b2'; } /* '' */
 .icon-linkedin:before { content: '\e8b3'; } /* '' */
 .icon-gplus:before { content: '\e8b4'; } /* '' */
 .icon-facebook:before { content: '\e8b5'; } /* '' */
 .icon-twitter:before { content: '\e8b6'; } /* '' */
+.icon-pause-circle:before { content: '\e8b7'; } /* '' */
+.icon-play-circle-o:before { content: '\e8b8'; } /* '' */
+.icon-pause-circle-o:before { content: '\e8b9'; } /* '' */
+.icon-replay:before { content: '\e8ba'; } /* '' */
+.icon-shuffle:before { content: '\e8bb'; } /* '' */
