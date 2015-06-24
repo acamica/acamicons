@@ -6168,10 +6168,10 @@
     },
     {
       "uid": "5d8085239971df60b77525ec7096b024",
-      "css": "uniF2B8",
-      "code": 62136,
+      "css": "arrow-merge",
+      "code": 59562,
       "src": "custom_icons",
-      "selected": false,
+      "selected": true,
       "svg": {
         "path": "M474.6 849.6L334 709 392.6 650.4 533.2 791ZM80.1 334L267.6 146.5 455.1 334H308.6V599.6L58.6 849.6 0 791 224.6 566.4V334H80.1Z",
         "width": 533.203125
@@ -6210,10 +6210,10 @@
     },
     {
       "uid": "c52850d131309b0e596e17ca1a4a5c9a",
-      "css": "uniF2BB",
-      "code": 62139,
+      "css": "arrow-split",
+      "code": 59563,
       "src": "custom_icons",
-      "selected": false,
+      "selected": true,
       "svg": {
         "path": "M416 166H666V416L570.3 320.3 451.2 441.4 392.6 382.8 511.7 261.7ZM250 166L154.3 261.7 375 482.4V834H291V517.6L95.7 320.3 0 416V166H250Z",
         "width": 666.015625
@@ -6560,10 +6560,10 @@
     },
     {
       "uid": "720c9d6ce368f81e5a2b590724f3625b",
-      "css": "uniF2D4",
-      "code": 62164,
+      "css": "trending-up",
+      "code": 59418,
       "src": "custom_icons",
-      "selected": false,
+      "selected": true,
       "svg": {
         "path": "M584 250H834V500L738.3 404.3 474.6 666 308.6 500 58.6 750 0 691.4 308.6 382.8 474.6 548.8 679.7 345.7Z",
         "width": 833.984375
@@ -6630,10 +6630,10 @@
     },
     {
       "uid": "ebd222d39248fc877fa4f1e3f3a8c78e",
-      "css": "uniF2D9",
-      "code": 62169,
+      "css": "filter-list",
+      "code": 59408,
       "src": "custom_icons",
-      "selected": false,
+      "selected": true,
       "svg": {
         "path": "M291 750V666H459V750H291ZM0 250H750V334H0V250ZM125 541V459H625V541H125Z",
         "width": 750
@@ -6658,10 +6658,10 @@
     },
     {
       "uid": "db37a4e2469a2e1ddb195a28ae99666a",
-      "css": "uniF2DB",
-      "code": 62171,
+      "css": "sort",
+      "code": 59564,
       "src": "custom_icons",
-      "selected": false,
+      "selected": true,
       "svg": {
         "path": "M0 750V666H250V750H0ZM0 250H750V334H0V250ZM0 541V459H500V541H0Z",
         "width": 750
