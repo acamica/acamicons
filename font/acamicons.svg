@@ -194,6 +194,13 @@
 <glyph glyph-name="pause-circle-o" unicode="&#xe8b9;" d="m291 184v332h84v-332h-84z m126 582q173 0 295-122t122-294-122-294-295-122-295 122-122 294 122 294 295 122z m0-750q138 0 235 98t98 236-98 236-235 98-235-98-98-236 98-236 235-98z m42 168v332h82v-332h-82z" horiz-adv-x="834" />
 <glyph glyph-name="replay" unicode="&#xe8ba;" d="m334 641q137 0 234-98t98-235-98-235-235-98-235 98-98 236h84q0-103 73-177t177-73 177 73 73 177-73 177-177 73v-168l-209 209 209 209v-168z" horiz-adv-x="666" />
 <glyph glyph-name="shuffle" unicode="&#xe8bb;" d="m275 467l-60-58-215 216 59 59z m163 217h228v-230l-84 86-523-524-59 59 523 523z m13-393l131-130 84 86v-231h-228l85 86-130 131z" horiz-adv-x="666" />
+<glyph glyph-name="video" unicode="&#xe8bc;" d="m584 413l166 166v-457l-166 166v-147q0-16-13-28t-30-13h-500q-16 0-28 13t-13 28v418q0 16 13 28t28 13h500q18 0 30-13t13-28v-146z" horiz-adv-x="750" />
+<glyph glyph-name="video-off" unicode="&#xe8bd;" d="m791 579v-446l-465 467h258q16 0 28-13t13-28v-146z m-738 187l738-738-53-53-132 133q-12-8-22-8h-500q-18 0-30 13t-13 28v418q0 16 13 28t30 13h29l-113 113z" horiz-adv-x="791" />
+<glyph glyph-name="comment-dots" unicode="&#xe8be;" d="m750 766q35 0 60-24t24-58v-500q0-35-24-60t-60-24h-584l-166-166v750q0 33 24 58t60 24h666z m-459-375v84h-82v-84h82z m168 0v84h-84v-84h84z m166 0v84h-84v-84h84z" horiz-adv-x="834" />
+<glyph glyph-name="comment-image" unicode="&#xe8bf;" d="m750 766q35 0 60-24t24-58v-500q0-35-24-60t-60-24h-584l-166-166v750q0 33 24 58t60 24h666z m-625-500h584l-187 250-147-187-103 125z" horiz-adv-x="834" />
+<glyph glyph-name="check-circle" unicode="&#xe8c0;" d="m417 766q173 0 295-122t122-294-122-294-295-122-295 122-122 294 122 294 295 122z m-83-625l375 375-59 61-316-317-150 149-59-59z" horiz-adv-x="834" />
+<glyph glyph-name="check-circle-u" unicode="&#xe8c1;" d="m416 766q172 0 295-122t123-294-123-294-295-122-294 122-122 294 122 294 294 122z m209-666v84h-416v-84h416z m-279 166l279 279-59 59-220-221-78 80-59-58z" horiz-adv-x="834" />
+<glyph glyph-name="comment-alert" unicode="&#xe8c2;" d="m750 766q35 0 60-24t24-58v-500q0-35-24-60t-60-24h-584l-166-166v750q0 33 24 58t60 24h666z m-291-375v250h-84v-250h84z m0-166v84h-84v-84h84z" horiz-adv-x="834" />
 </font>
 </defs>
 </svg>

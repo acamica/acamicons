@@ -187,3 +187,10 @@
 .icon-pause-circle-o:before { content: '\e8b9'; } /* '' */
 .icon-replay:before { content: '\e8ba'; } /* '' */
 .icon-shuffle:before { content: '\e8bb'; } /* '' */
+.icon-video:before { content: '\e8bc'; } /* '' */
+.icon-video-off:before { content: '\e8bd'; } /* '' */
+.icon-comment-dots:before { content: '\e8be'; } /* '' */
+.icon-comment-image:before { content: '\e8bf'; } /* '' */
+.icon-check-circle:before { content: '\e8c0'; } /* '' */
+.icon-check-circle-u:before { content: '\e8c1'; } /* '' */
+.icon-comment-alert:before { content: '\e8c2'; } /* '' */
