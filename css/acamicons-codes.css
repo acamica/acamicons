@@ -209,6 +209,7 @@
 .icon-google-plus:before { content: '\e8cf'; } /* '' */
 .icon-html5:before { content: '\e8d0'; } /* '' */
 .icon-javascript:before { content: '\e8d1'; } /* '' */
+.icon-heading:before { content: '\e8d2'; } /* '' */
 .icon-linkedin:before { content: '\e8d3'; } /* '' */
 .icon-paypal:before { content: '\e8d4'; } /* '' */
 .icon-stackoverflow:before { content: '\e8d5'; } /* '' */
@@ -222,3 +223,10 @@
 .icon-android:before { content: '\e8dd'; } /* '' */
 .icon-apple:before { content: '\e8de'; } /* '' */
 .icon-python:before { content: '\e8df'; } /* '' */
+.icon-subtitles:before { content: '\e8e0'; } /* '' */
+.icon-window-layout:before { content: '\e8e1'; } /* '' */
+.icon-priority-high:before { content: '\e8e2'; } /* '' */
+.icon-pie-chart:before { content: '\e8e3'; } /* '' */
+.icon-pip:before { content: '\e8e4'; } /* '' */
+.icon-arrow-downward:before { content: '\e8e5'; } /* '' */
+.icon-arrow-upward:before { content: '\e8e6'; } /* '' */
